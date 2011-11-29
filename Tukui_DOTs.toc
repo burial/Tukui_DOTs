@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: |cffC495DDTukui:|r DOTs
+## Notes: dot tracker for tukui
+## Author: burial
+## Version: 1
+## RequiredDeps: Tukui
+
+config.lua
+models\icon.lua
+main.lua
